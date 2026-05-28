@@ -32,6 +32,10 @@ Experiments use `small_matrix.csv` (the fully-observed matrix). Its columns are:
 | `video_id` | Video ID (action $a$) |
 | `watch_ratio` | Fraction of total duration viewed; used as the reward $q(x, a)$ |
 
+# Experiments
+
+Run the notebooks/*.ipynb
+
 ## Abstract
 
 A/B testing is the gold standard for selecting better algorithms in online services. While offline evaluation has attracted attention as a safer alternative due to the high experimental costs and the potential risk of degrading user experience and revenue in A/B testing, it is widely recognized that the estimation accuracy of offline evaluation is substantially lower than that of A/B testing. As a result, final decisions on algorithm selection are typically made through A/B testing.
