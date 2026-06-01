@@ -20,17 +20,10 @@ This project uses the [KuaiRec](https://kuairec.com/) dataset, a real-world vide
 2. Place the `small_matrix.csv` under the `data/` directory:
 
 ```
-data/
-└── small_matrix.csv        # Fully-observed user-item matrix
+kdd2026-mid/
+└──data/
+    └── small_matrix.csv        # Fully-observed user-item matrix
 ```
-
-Experiments use `small_matrix.csv` (the fully-observed matrix). Its columns are:
-
-| Column | Description |
-|--------|-------------|
-| `user_id` | User ID (context $x$) |
-| `video_id` | Video ID (action $a$) |
-| `watch_ratio` | Fraction of total duration viewed; used as the reward $q(x, a)$ |
 
 # Experiments
 
