@@ -4,7 +4,7 @@ This repository contains the code for the experiments in "A More Accurate Algori
 
 ## Requirements
 
-uv (https://docs.astral.sh/uv/) are required. Run the following to set up the environment:
+uv (https://docs.astral.sh/uv/) is required. Run the following to set up the environment:
 
 ```bash
 uv sync
