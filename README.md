@@ -37,5 +37,13 @@ Building on this insight, we propose a novel estimator that intentionally induce
 
 ## Citation
 ```
-hoge
+@misc{konishi2026accuratealgorithmcomparisonab,
+      title={A More Accurate Algorithm Comparison through A/B Testing using Offline Evaluation Methods}, 
+      author={Koki Konishi and Masataka Ushiku and Yuta Saito},
+      year={2026},
+      eprint={2607.01958},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2607.01958}, 
+}
 ```
